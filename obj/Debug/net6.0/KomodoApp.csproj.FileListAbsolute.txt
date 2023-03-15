@@ -1,0 +1,15 @@
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/bin/Debug/net6.0/KomodoApp
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/bin/Debug/net6.0/KomodoApp.deps.json
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/bin/Debug/net6.0/KomodoApp.runtimeconfig.json
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/bin/Debug/net6.0/KomodoApp.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/bin/Debug/net6.0/KomodoApp.pdb
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.csproj.AssemblyReference.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.AssemblyInfoInputs.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.AssemblyInfo.cs
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.csproj.CoreCompileInputs.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/refint/KomodoApp.dll
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.pdb
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/KomodoApp.genruntimeconfig.cache
+/Users/Blake/elevenfiftyprojects/codingfoundations/assignments/KomodoInsurance/DevTeamManagment/KomodoApp/obj/Debug/net6.0/ref/KomodoApp.dll
