@@ -77,15 +77,15 @@ public class DevTeamsRepository
     // }
     // return null;
 
-  public bool AddDevsToTeam(DevTeams team, List<Developers> _devsToAdd)
+  public bool AddDevsToTeam(DevTeams team, List<Developers> devsToAdd)
   {
-    if (_devsToAdd.Count != 0)
+    if (devsToAdd.Count != 0)
     {
-      foreach (Developers dev in _devsToAdd)
+      foreach (Developers dev in devsToAdd)
       {
         team.DevsList.Add(dev);
-        return true;
       }
+        return true;
     }
     return false;
 

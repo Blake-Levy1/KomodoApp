@@ -223,23 +223,23 @@ public class KomodoUI
     int teamIdAsInt = int.Parse(teamIdAsString);
     DevTeams team = _devTeamsRepo.GetDevTeamById(teamIdAsInt);
 
-    List<Developers> _devsToAdd = new List<Developers>();
+    List<Developers> devsToAdd = new List<Developers>();
     string moreDevs = "";
     while (moreDevs != "n")
     {
 
-      System.Console.WriteLine(team.TeamName);
-      System.Console.WriteLine(_devsToAdd.Count);
+      // System.Console.WriteLine(team.TeamName);
+      // System.Console.WriteLine(_devsToAdd.Count);
       System.Console.WriteLine("Enter the ID of the dev you would like to add to the team");
       string devIdAsString = Console.ReadLine();
       int devIdAsInt = int.Parse(devIdAsString);
       Developers dev = _developersRepo.GetDevById(devIdAsInt);
       System.Console.WriteLine(dev.Name);
-      _devsToAdd.Add(dev);
+      devsToAdd.Add(dev);
       System.Console.WriteLine("Would you like to add another developer? (y/n)");
       moreDevs = Console.ReadLine().ToLower();
     }
-    _devTeamsRepo.AddDevsToTeam(team, _devsToAdd);
+    _devTeamsRepo.AddDevsToTeam(team, devsToAdd);
   }
 
       // remove dev from team by id
