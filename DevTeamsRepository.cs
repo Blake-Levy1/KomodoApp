@@ -2,6 +2,9 @@ using System.Collections.Generic;
 
 public class DevTeamsRepository
 {
+
+  private Developers _devRepo = new Developers();
+
   //                        LIST
   private List<DevTeams> _ListOfDevTeams = new List<DevTeams>();
 
@@ -64,5 +67,27 @@ public class DevTeamsRepository
       }
     }
     return null;
+  }
+    // foreach (DevTeams team in _ListOfDevTeams)
+    // {
+    //   if (team.TeamId == id)
+    //   {
+    //     return team;
+    //   }
+    // }
+    // return null;
+
+  public bool AddDevsToTeam(DevTeams team, List<Developers> _devsToAdd)
+  {
+    if (_devsToAdd.Count != 0)
+    {
+      foreach (Developers dev in _devsToAdd)
+      {
+        team.DevsList.Add(dev);
+        return true;
+      }
+    }
+    return false;
+
   }
 }
